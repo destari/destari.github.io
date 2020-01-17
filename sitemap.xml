@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.epa.io/categories/</loc>
+    <loc>https://blog.epa.io/</loc>
+    <lastmod>2020-01-17T14:01:07-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.epa.io/</loc>
+    <loc>https://blog.epa.io/posts/my-first-post/</loc>
+    <lastmod>2020-01-17T14:01:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.epa.io/posts/</loc>
+    <lastmod>2020-01-17T14:01:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.epa.io/categories/</loc>
   </url>
   
   <url>
